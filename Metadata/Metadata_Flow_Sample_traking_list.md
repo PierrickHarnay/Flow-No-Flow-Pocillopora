@@ -1,4 +1,4 @@
-##Metadata file for file Flow sampling tracking list:##
+## Metadata file for file Flow sampling tracking list: ##
 
 *Github: https://github.com/PierrickHarnay/Flow-No-Flow-Pocillopora-*
 
