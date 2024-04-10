@@ -1,8 +1,10 @@
 ##Metadata file for file Flow sampling tracking list:##
 
-####Github: https://github.com/PierrickHarnay/Flow-No-Flow-Pocillopora-###
-####OSF:  https://osf.io/dzy3q/files/osfstorage###
-####Drive: https://drive.google.com/drive/u/0/folders/1BQnFoiOwh6rK4-yptNLGinzlKzCRWVnK###
+*Github: https://github.com/PierrickHarnay/Flow-No-Flow-Pocillopora-*
+
+*OSF: https://osf.io/dzy3q/files/osfstorage*  
+
+*Drive: https://drive.google.com/drive/u/0/folders/1BQnFoiOwh6rK4-yptNLGinzlKzCRWVnK*
 
 **Date sampling:** Date when the colonies (fragment collected) was sampling.  
 **Project:** Name of the project.    
