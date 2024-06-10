@@ -35,7 +35,8 @@ During expereriment we wanted to focus on the top part of the coral to observe a
 *We used to resolution of scan:* Low resolution *(5X - ~36 keV)* and High resolution *(20X - ~20 keV)*. For the sample at **Low resoltuion** we scans 3 windows separe each other per 3mm to never overlap between window. Depending of the shape of the sample, we needed to went bellow 3mm to make sur to have a good scan and the entire piece wish. At **High resolution** only the first window was scan. 
 Each sample was fix with hot glue to the screw.     
 
-### Sample scan   
+### Sample scan 
+  
 |  **Date**  |    **Sample**    | **Resolution** | **Window 1** | **Window 2** | **Window 3** |
 |:----------:|:----------------:|:--------------:|:------------:|:------------:|:------------:|
 | _20240525_ |       PV036      |       5x       |      Yes     |      No      |      No      |
@@ -77,6 +78,7 @@ Each sample was fix with hot glue to the screw.
 | _20240601_ |       PT040      |       20x      |      Yes     |      No      |      No      |   
    
 ### Settings used   
+
 | Phase retrieval and uint conversion parameters |                |          |              |        |          |          |
 |------------------------------------------------|----------------|----------|--------------|--------|----------|----------|
 |                                                | Pixelsize [um] | SDD [mm] | Energy [keV] | alpha  | Data min | Data max |
@@ -87,6 +89,7 @@ Each sample was fix with hot glue to the screw.
 | Coral 20X phase                                | 0.33           | 20       | 20           | 0.0002 | -0.0008  | 0.003    |
 | Coral 20X                                      | 0.33           | 10       | 20           | /      | -0.0044  | 0.011    |
 | Coral 20x phase                                | 0.33           | 10       | 20           | 0.002  | -0.0008  | 0.003    |  
+
 
 | Scan settings for extended Field Of View (FOV) |                         |                              |
 |------------------------------------------------|-------------------------|------------------------------|
