@@ -1,4 +1,4 @@
-﻿Hard_disk_name,File_name,Sample_type,Sample_ID,Type_raw _or_reconstruction
+Hard_disk_name,File_name,Sample_type,Sample_ID,Type_raw _or_reconstruction
 AGZaslansky_Indentation_ESRF,__finished_reconstruction_HR_corals,Coral,PG011,reconstruction
 AGZaslansky_Indentation_ESRF,__finished_reconstruction_HR_corals,Coral,PG034,reconstruction
 AGZaslansky_Indentation_ESRF,__finished_reconstruction_HR_corals,Coral,PM019,reconstruction
@@ -137,3 +137,4 @@ ESRF,__finished_reconstruction_coral_teeth,Bone,5L,reconstruction
 ESRF,__finished_reconstruction_coral_teeth,Bone,5L,reconstruction
 ESRF,__finished_reconstruction_coral_teeth,Bone,5L,reconstruction
 ESRF,__finished_reconstruction_coral_teeth,Bone,5L,reconstruction
+Katrein tests github,"yeah, it is working",in my blood,,
