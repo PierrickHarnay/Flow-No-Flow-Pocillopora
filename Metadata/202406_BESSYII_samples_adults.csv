@@ -1,0 +1,25 @@
+﻿Date,Time,Sample name,File name,Number of scan,Resolution,Notes
+20240629,21:10,PT013,,2,,
+20240629,21:20,PT040,PT410,2,,
+20240629,21:43,PG010,PG110,1,,"Tiny sample, no need 2 scan to cover the entire sample"
+20240629,21:57,PM029,PM29,2,,
+20240629,22:27,PV002,PV02,2,,
+20240629,22:52,PT042,PT12,1,,Only 1 scan
+20240629,23:08,PV035,PV35,1,,Only 1 scan
+20240629,23:22,PT015,PT15,1,,Only 1 scan
+20240629,23:42,PG030,PG310,2,,
+20240630,0:43,PM021,PM21,2,,
+20240630,1:10,POC_NO_FLOW,POCC_NO_FLOW,2,,
+20240630,1:30,POC_FLOW,POCC_FLOW,2,,
+20240630,2:00,PG034,PG34,2,,
+20240630,2:32,PG011,PG11,2,,
+20240630,3:05,PV036,PV36,2,,
+20240630,3:32,PV001,PV01,2,,
+20240630,3:57,PM019,PM19,2,,
+20240630,4:20,C2,PDAM_C2,1,,"Problem during scan, catch lot of paper and not the sample"
+20240630,4:35,M3,PDAM_M3,1,,"Problem during scan, catch lot of paper and not the sample"
+20240630,4:49,H3,PDAM_H3,1,,"Problem during scan, catch lot of paper and not the sample"
+20240630,5:03,C1,PDAM_C1,1,,"Problem during scan, catch lot of paper and not the sample"
+20240630,5:30,419,POCC13,2,,
+20240630,5:45,596,POCC13,2,,
+20240630,6:25,FUNGIA,FUN1,2,,
