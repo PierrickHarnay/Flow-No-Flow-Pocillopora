@@ -21,7 +21,7 @@ Depending of the environmental condition, *Pocillopora spp.* will don't have the
 
 ### **Samples preparation**
 
-Isabela prep protocol test
+Isabela prep protocol test 2
 
 #test tali
 
