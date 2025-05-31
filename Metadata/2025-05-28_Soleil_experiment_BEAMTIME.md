@@ -30,8 +30,6 @@ Samples previously prepared for 2024-06-03 SESAME experiment (n=2/specie/flow co
 For a subset of samples (n=1) a second piece of coral was cut, for mechanical testing. The flat top and bottom sides of these samples where sandwiched and set between acrylic (Bosworth Trim PEMA Temporary Resin Acrylic, Keystone) to create flat parallel surfaces where compressive forces could be evenly distributed. These samples were imaged, then underwent compression using a wrench, and then re-imaged. 
 
 ![images/coral_flow_sample_diagram.jpeg](*need to enter link, once website working*)
-![images/sample_tip_sem_stub.jpeg](*need to enter link, once website working*)
-![images/sample_mechanicaltest.jpeg](*need to enter link, once website working*)
 
 ![images/Coral_set_up_soliel_2025.png](https://github.com/talimass/Talimass_Lab_Notebook_Mass_Lab/blob/d0a6d5125c525d69758046df85e371f7bd6d0c8a/images/Coral%20set%20up_soliel%202025.png)
 
