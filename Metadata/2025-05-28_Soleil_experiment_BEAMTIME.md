@@ -13,7 +13,12 @@ In the island of Mo'orea located in French Polynesia, *Pocillopora spp.* are pre
 Our goal it's to identified the difference and the plasticity the coral make between a site with a hight flow regime compare to a low flow regime condition. For doing that we run tomography scanning (Scucchia et al. 2023) on our samples at different BeamLine.     
 
 ### Idea   
-Depending of the environmental condition, *Pocillopora spp.* will don't have the same skeleton structure interspecific and intraspecific. We are also looking at what happen if the differente species of *Pocillopora spp* had different environmental condition on their skeleton. We want to look at the macro and micro feature using Beam, MicroCT, SEM. 
+Different growth environments induce changes at multiple levels of the skeletal hierarchy, from macro- to micro-scale in corals. Therefore, we would like to obtain morphological data of the adult coral *Pocillopora spp.* of 4 different species, to characterize the distribution of struts and other microstructures in 3D at a resolution better than 1 µm. We will examine the interplay between µm and sub-µm porosity, shape, and density gradients by collecting both low-resolution overview as well as local-region-of-interest submicron 3D X-ray tomographic data. Such data will enrich our ongoing research, which seeks to provide new insights into coral adaptation in various ocean environments.
+
+
+### Objective
+We will examine the interplay between µm and sub-µm porosity, shape and density gradients by collecting both low-resolution overview as well as local-region-of-interest submicron 3D X-ray tomographic data.
+
 
 ### History of the samples    
 #### Colonies from the field   
@@ -21,6 +26,21 @@ Depending of the environmental condition, *Pocillopora spp.* will don't have the
 
 ### **Samples preparation**
 
+<<<<<<< Updated upstream
 Isabela prep protocol
+=======
+Nubbins, approximately 1 cm, were glued onto a SEM stub. 
+
+![images/Coral_set_up_soliel_2025.png](https://github.com/talimass/Talimass_Lab_Notebook_Mass_Lab/blob/d0a6d5125c525d69758046df85e371f7bd6d0c8a/images/Coral%20set%20up_soliel%202025.png)
+
+The ANATOMIX beamline was configured to use a white beam with a high mean energy of 45 keV, achieved by using 450 µm thick Cu and 26 Au filters combined with a gap of 5.5-6.7 mm. We used 2 different camera setups: a 2x lens yielding an effective pixel resolution of 3.08 µm and a 10x camera and lens setup yielding a pixel resolution of 0.65 µm. A propagation based tomographic setup was used. To reveal internal inclusions, defects (cracks), and micropores, we explored a range of sample-detector propagation distances (dlts motor): for the low resolution, 1000, 300 and 250 mm distances (37 mm difference to motor encoder), for the high resolution, 87, 100 and 150 mm (12 mm difference to motor encoder). We first acquired images at 2x of two regions of interest - the growing tip and an older region immediately below the tip. Half acquisition scanning allowed us to capture sufficiently large cross-sectional regions of the coral. A total of 117 datasets were collected with these settings. We then switched to the high-resolution setup (after testing the 20x - 325 nm setup at lower energy but with limited feature visibility) to image each sample with the 10x setup. The ca. 100 scans of the same regions will foster multi-resolution alignment of the features in the skeletons. 
+
+### Scan file names 
+
+
+
+
+
+>>>>>>> Stashed changes
 
 
