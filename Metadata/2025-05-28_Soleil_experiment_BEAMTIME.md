@@ -26,9 +26,7 @@ We will examine the interplay between µm and sub-µm porosity, shape and densit
 
 ### **Samples preparation**
 
-<<<<<<< Updated upstream
-Isabela prep protocol
-=======
+
 Nubbins, approximately 1 cm, were glued onto a SEM stub. 
 
 ![images/Coral_set_up_soliel_2025.png](https://github.com/talimass/Talimass_Lab_Notebook_Mass_Lab/blob/d0a6d5125c525d69758046df85e371f7bd6d0c8a/images/Coral%20set%20up_soliel%202025.png)
@@ -41,6 +39,6 @@ The ANATOMIX beamline was configured to use a white beam with a high mean energy
 
 
 
->>>>>>> Stashed changes
+
 
 
