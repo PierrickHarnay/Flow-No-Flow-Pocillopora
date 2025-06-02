@@ -25,9 +25,9 @@ We will examine the interplay between µm and sub-µm porosity, shape and densit
 ![colonie_figure_sesesame.png](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/colonie_figure_sesesame.png) 
 
 ### **Samples preparation**
-Samples previously prepared for 2024-06-03 SESAME experiment (n=2/specie/flow condition) were imaged. For the remaining coral samples (n=3), the same procedure was used to prepare small pieces of coral taken from the tip, using a wet band-saw. These nubbins, approximately 1 cm^3, were glued onto a SEM stub. 
+Samples previously prepared for 2024-06-03 SESAME experiment (n=2/specie/flow condition) were imaged (tip nubbins). For the remaining coral samples (n=3), the same procedure was used to prepare tip nubbin samples, using a wet band-saw. These nubbins, approximately 1 cm^3, were glued onto a SEM stub. 
 
-For a subset of samples (n=1) a second piece of coral was cut, for mechanical testing. The flat top and bottom sides of these samples where sandwiched and set between acrylic (Bosworth Trim PEMA Temporary Resin Acrylic, Keystone) to create flat parallel surfaces where compressive forces could be evenly distributed. These samples were imaged, then underwent compression using a wrench, and then re-imaged. 
+For a subset of samples (n=1) a second piece of coral (cube sample) was cut, for mechanical testing, also with the wet band-saw. The flat top and bottom sides of these samples where sandwiched and set between acrylic (Bosworth Trim PEMA Temporary Resin Acrylic, Keystone) to create flat parallel surfaces where compressive forces could be evenly distributed. These samples were imaged, then underwent compression using a wrench, and then re-imaged. 
 
 ![images/coral_flow_sample_diagram.jpeg](*need to enter link, once website working*)
 
@@ -36,7 +36,7 @@ For a subset of samples (n=1) a second piece of coral was cut, for mechanical te
 The ANATOMIX beamline was configured to use a white beam with a high mean energy of 45 keV, achieved by using 450 µm thick Cu and 26 Au filters combined with a gap of 5.5-6.7 mm. We used 2 different camera setups: a 2x lens yielding an effective pixel resolution of 3.08 µm and a 10x camera and lens setup yielding a pixel resolution of 0.65 µm. A propagation based tomographic setup was used. To reveal internal inclusions, defects (cracks), and micropores, we explored a range of sample-detector propagation distances (dlts motor): for the low resolution, 1000, 300 and 250 mm distances (37 mm difference to motor encoder), for the high resolution, 87, 100 and 150 mm (12 mm difference to motor encoder). We first acquired images at 2x of two regions of interest - the growing tip and an older region immediately below the tip. Half acquisition scanning allowed us to capture sufficiently large cross-sectional regions of the coral. A total of 117 datasets were collected with these settings. We then switched to the high-resolution setup (after testing the 20x - 325 nm setup at lower energy but with limited feature visibility) to image each sample with the 10x setup. The ca. 100 scans of the same regions will foster multi-resolution alignment of the features in the skeletons. 
 
 ### Scan file names 
-32-bit reconstructions were produced, without Paganin filtering. These reconstructions were then converted to 16-bit, clipping the data to [-7,9] for the 2x images and [-55,54] for the 10x images. Raw data and 16-bit reconstructions were transferred to hard-drives, and copies of 32-bit reconstructions remained on Soleil servers (temporary).
+32-bit reconstructions were produced, without Paganin filtering. These reconstructions were then converted to 16-bit, clipping the data to [-7,9] for the 2x images and [-55,54] for the 10x images. 16-bit reconstructions were transferred to hard-drives, while raw data and 32-bit reconstructions currently remain on Soleil servers.
 
 
 
